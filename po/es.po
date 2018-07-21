@@ -195,8 +195,8 @@ msgid "Last Block"
 msgstr "Último Bloque"
 
 #: public/views/status.html
-msgid "Last Block Hash (JoliCoind)"
-msgstr "Último Bloque Hash (JoliCoind)"
+msgid "Last Block Hash (Jolicoind)"
+msgstr "Último Bloque Hash (Jolicoind)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
