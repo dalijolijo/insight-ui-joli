@@ -213,8 +213,8 @@ msgid "Last Block"
 msgstr "直前のブロック"
 
 #: public/views/status.html
-msgid "Last Block Hash (JoliCoind)"
-msgstr "直前のブロックのハッシュ値 (JoliCoind)"
+msgid "Last Block Hash (Jolicoind)"
+msgstr "直前のブロックのハッシュ値 (Jolicoind)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
