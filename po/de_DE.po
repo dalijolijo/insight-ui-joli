@@ -94,7 +94,7 @@ msgid ""
 "Can't connect to jolicoind to get live updates from the p2p network. (Tried "
 "connecting to jolicoind at {{host}}:{{port}} and failed.)"
 msgstr ""
-"Es ist nicht möglich mit JoliCoind zu verbinden um live Aktualisierungen vom "
+"Es ist nicht möglich mit jolicoind zu verbinden um live Aktualisierungen vom "
 "P2P Netzwerk zu erhalten. (Verbindungsversuch zu jolicoind an {{host}}:"
 "{{port}} ist fehlgeschlagen.)"
 
@@ -199,8 +199,8 @@ msgid "Last Block"
 msgstr "Letzter Block"
 
 #: public/views/status.html
-msgid "Last Block Hash (JoliCoind)"
-msgstr "Letzter Hash (JoliCoind)"
+msgid "Last Block Hash (Jolicoind)"
+msgstr "Letzter Hash (Jolicoind)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
